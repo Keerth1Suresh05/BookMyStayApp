@@ -1,0 +1,3 @@
+single : 5
+suite : 2
+double : 3
